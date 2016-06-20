@@ -1,0 +1,28 @@
+##
+
+##
+#
+- Beacon 的发射周期可调，比如苹果规定 100mS 发射一次，也就是说 100mS 里只发射 4ms, 
+- iBeacon 协议并不用于传输定制化数据
+- RSSI: Received Signal Strength Indication
+- range: 70 meters - 10 inches
+- vs Eddystone by Google
+- BLE: Bluetooth Low Energy, Bluetooth 4.0 or Bluetooth Smart
+- NFC range is up to 20 cm but the optimal range is < 4 cm
+- estimote
+- Gimbal Beacons, from Qualcomm, a product and a company
+- 一个简单的测量精度(accurate/precision)结果： 在1m的距离标准差10cm，在8米的距离标准差2m
+- 停留时间也是影响精度的一个很大因素，如果停留10s，精度会提高
+- iOS device can be as a beacon with CBPeripheralManager
+
+# iOS
+CLLocationManager
+CLLocationManagerDelegate
+CLBeaconRegion
+CLBeacon
+
+ref:
+http://blog.beaconstac.com/2014/08/beacon-faqs-everything-you-need-to-know/
+http://www.warski.org/blog/2014/01/how-ibeacons-work/
+http://reprage.com/post/How-accurate-are-estimote-ibeacons
+http://stackoverflow.com/questions/20416218/understanding-ibeacon-distancing
