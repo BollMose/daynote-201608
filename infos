@@ -8,3 +8,7 @@ CEO Travis Kalanick
 以前的形式：在天文学（搜索外星信号），网格计算等
 如UberPool，Kickstarter(Crowdfunding)
 
+# mobile hybrid frameworks
+- Cordova: html/js, all UI based on webview, can called native functions throught plugin
+- React: native, but the code you write is usual JS, actually there are no htmls
+- xamarin: native, as well as React, with c#
