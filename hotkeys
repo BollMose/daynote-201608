@@ -6,8 +6,20 @@ CMD + Shift + 1: welcome xcode, select recent projects
 
 ## InteliJ
 
-## vi
+## vim
+# marks
+-m+[a-zA-Z]
+-marks : list all marks
+-delmarks : delm , can not work on XVim
+- ` + [a-zA-Z] move to mark
 
+# visual block
+- Ctrl + V
+- cmd: c I A r d o
+
+# basic cmd
+- u/U : lower case and upper case
+- m : marks
 ## Emacs
 
 ## Mac
