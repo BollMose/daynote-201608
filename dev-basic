@@ -1,0 +1,20 @@
+
+# 
+-RE
+-shell/sh
+-vim/emacs
+
+# lang
+-py
+-js
+-cpp
+-go
+
+# media
+-ffmpeg
+-
+
+# 
+-nginx
+-mongodb
+-
