@@ -1,20 +1,21 @@
 
-# 
--RE
--shell/sh
--vim/emacs
+# basic of basic
+- RE
+- shell/sh
+- vim/emacs
 
 # lang
--py
--js
--cpp
--go
+- py
+- js
+- cpp
+- go
 
 # media
--ffmpeg
+- ffmpeg
 -
 
 # 
--nginx
--mongodb
+- nginx
+- mongodb
+- sql
 -
