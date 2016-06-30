@@ -1,0 +1,5 @@
+
+## pcDuino
+
+# dd
+sudo dd if=/dev/disk2s1 of=pcduino8_ubuntu14.04_20160102_preinstalled_opencv2.4.11.img bs=1m
