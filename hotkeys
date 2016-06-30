@@ -19,7 +19,9 @@ CMD + Shift + 1: welcome xcode, select recent projects
 
 # basic cmd
 - u/U : lower case and upper case
-- m : marks
+- m : mark
+- z: move cursor, zz/zt/zb
+
 ## Emacs
 
 ## Mac
