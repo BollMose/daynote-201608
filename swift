@@ -7,7 +7,7 @@ case let x=xfloat if xfloat < 0:
 }
 #
 deinit {
-...
+doNothing() //need, if no code here, will not run.
 }
 no func, no (),
 
