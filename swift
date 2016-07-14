@@ -1,4 +1,10 @@
 ##
+# switch with float
+switch xfloat {
+case let x=xfloat if xfloat > 0:
+case let x=xfloat if xfloat < 0:
+
+}
 #
 deinit {
 ...
