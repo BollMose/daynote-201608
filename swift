@@ -1,3 +1,9 @@
+##
+#
+deinit {
+...
+}
+no func, no (),
 
 # optional/explicit
 when you define as: 
