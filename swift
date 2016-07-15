@@ -1,4 +1,7 @@
 ##
+# adjust z-order
+ref: 
+http://stackoverflow.com/questions/4631878/how-to-set-iphone-ui-view-z-index
 # switch with float
 switch xfloat {
 case let x=xfloat if xfloat > 0:
