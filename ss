@@ -15,3 +15,6 @@
 #
 ssserver -c /etc/shadowsocks.json -d start
 ssserver -c /etc/shadowsocks.json -d stop
+
+# ref
+https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File
