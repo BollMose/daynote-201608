@@ -21,6 +21,11 @@ CMD + Shift + 1: welcome xcode, select recent projects
 - u/U : lower case and upper case
 - m : mark
 - z: move cursor, zz/zt/zb
+## git
+# show remote branch 
+git ls-remote --head <branch_name>
+# show tracked remote branch
+git branch -r
 
 ## Emacs
 
